@@ -1,12 +1,12 @@
-# Scorecard.cash Issues
+# eCash Services Issues
 
-Repo for community input for the exchange and services information found on [scorecard.cash](https://scorecard.cash/).
+Repo for community input for the exchange and services information found on [scorecard.cash](https://scorecard.cash/) and [buyecash.com](https://buyecash.com/).
 
 ## Contributing
 
 If you find a mistake with any of the information you can request a modification here. 
 
-[Open an issue](https://github.com/ecashxec/scorecard-cash-issues/issues) in this repo and describe the mistake or change you want to make. Please specify the exchange or service in question, and which data points needs to be updated to which values.
+[Open an issue](https://github.com/ecashxec/ecash-services/issues) in this repo and describe the mistake or change you want to make. Please specify the exchange or service in question, and which data points needs to be updated to which values.
 
 Someone will review the request and make the neccessary changes.
 
